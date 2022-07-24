@@ -70,7 +70,7 @@ header, section, footer{
 .header .logo a{
     font-size: 30px;
     font-weight: bold;
-    color: rgb(0, 0, 0);
+    color: white;
     font-family: 'great vibes', cursive;
     letter-spacing: 3px;
 }
