@@ -1,0 +1,19 @@
+.card h3, .couple-section .couple i.fa-heart, .couple-section .couple h3, .header .nav ul li a{
+    color: #fb839e;
+}
+
+.header{
+    background-color: #f3f2f1;
+}
+
+.header .nav ul li a:hover{
+    color: #fb839e;
+}
+
+.cards .card img, .couple-section .couple img{
+    border-color: #fb839e;
+}
+
+.rsvp-section{
+    background-color: #fb839e;
+}
